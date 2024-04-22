@@ -1,0 +1,2 @@
+﻿Tipo documento (Cedula de Ciudadania, Cedula de Extranjeria, NIT);Num Documento;Primer Nombre;Segundo Nombre;Primer Apellido;Segundo Apellido;Ciudad (BOGOTA, MEDELLIN);Direccion;Correo Electronico;Entidad Financiera (BANCO DE BOGOTA, BANCO DAVIVIENDA S.A., NEQUI, BANCOLOMBIA S.A.);Tipo Cuenta (cta ahorros, cta corriente);Num Cuenta;Num Telefono
+Cedula de Ciudadania;1234568931;pruebas;pruebas;pruebas;pruebas;BOGOTA;cra 2 pruebas;pruebascuenta1@yopmail.com;BANCO DE BOGOTA;cta ahorros;1245785234;7894512213
